@@ -1,12 +1,24 @@
-# React + Vite
+Anggota Kelompok:
+Rifana Anya Septiani
+Adli (tidak mengerjakan)
+Fadli lubis (tidak mengerjakan)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bantuan Teman:
+Kevin Hendra Bouwmeester
 
-Currently, two official plugins are available:
+Deskripsi:
+Web Kesehatan adalah web tentang informasi covid 19, diweb ini tersedia navbar, bagian tengah web (isi web) dan footer.
+tersedia fitur search, login (hanya bisa di klik saja), dark mode, homepage, data covid, pencegahan, virus terkini (belum bisa di klik)
+dibagian awal, terdapat Hero tentang covid 19, foto dan jenis covid 19 yang otomatis menggeser ke kiri dan menampilkan penjelasannya bergantian,dibagian tengah web tersedia data covid 19 di Indonesia menggunakan api https://disease.sh/v3/covid-19/historical/indonesia?lastdays=all, disini api memunculkan kasus covid 19, jumlah kematian, dan jumlah sembuh, selain itu, saya juga menambahkan grafik jumlah jumlah kasus, kematian, dan sembuh (datanya otomatis dari api, sama seperti yang jumlah kasus sebelumnya, bedanya hanya versi grafik saja
+dibawah dari data covid 19, ada cara pencegahan virus covid 19
+dan dibawah pencegahan, alias paling Bawah halaman web, tersedia footer yang berfungsi sebagai footer sebagainya, terdapat informasi kontak yang bisa di klik, dan important links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+web ini sangat simple karena dibuat mendadak dan tanpa kerja sama dengan anggota kelompok, jadi bisa dimaklumkan.
 
-## Expanding the ESLint configuration
+Cara Penginstalan:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Link Demo:
+https://web-covid-five.vercel.app/
+
+Anggota Kelompok (sudah disertakan di atas)
